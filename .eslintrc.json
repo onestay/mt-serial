@@ -7,6 +7,7 @@
 		"no-tabs": "off",
 		"indent": ["error", "tab"],
 		"max-len": ["off", 100],
-		"no-plusplus": "off"
+		"no-plusplus": "off",
+		"no-console": "off"
 	}
 }
