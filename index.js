@@ -69,7 +69,6 @@ function parseTime(d) {
 
 const initWs = () => {
 	const wsTimeout = 5000;
-	let timerState = 2;
 	ws = new WebSocket(options.wsAdress);
 
 	ws.on('open', () => {
