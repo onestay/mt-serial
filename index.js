@@ -1,4 +1,4 @@
-const SerialPort = require('serialport/test');
+const SerialPort = require('serialport');
 const WebSocket = require('ws');
 const moment = require('moment');
 const commandLineArgs = require('command-line-args');
